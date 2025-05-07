@@ -1,0 +1,19 @@
+1. Quais são os produtos mais vendidos no período analisado? Liste em ordem decrescente de quantidade vendida e mostre a receita gerada por cada um.
+
+2. Qual é o faturamento total de cada marketplace (Etsy, Shopee, AliExpress)? Qual plataforma teve melhor desempenho?
+
+3. Em quais meses ocorrem os picos de vendas? Existe alguma sazonalidade aparente?
+
+4. Qual é a média de valor aplicado em cupons de desconto por site? Em qual site os clientes mais utilizam cupons?
+
+5. Quais são os países com maior volume de vendas e maior faturamento? Existe algum país com baixa participação mas alto ticket médio?
+
+6. Qual a faixa etária predominante dos compradores com base nas datas de nascimento? Existe diferença entre faixas etárias por país?
+
+7. Qual é o ticket médio por venda em cada marketplace?
+
+8. Existe correlação entre o uso de cupons e a quantidade comprada? Clientes que usam cupons compram mais unidades?
+
+9. Como a receita mensal evoluiu ao longo do tempo? A tendência geral é de crescimento, queda ou estabilidade?
+
+10. Qual produto teve maior número de vendas com desconto aplicado? E qual teve maior valor total de desconto concedido?
