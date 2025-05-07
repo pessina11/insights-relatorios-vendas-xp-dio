@@ -44,6 +44,15 @@ Veja o arquivo `prompts.txt` para a lista completa.
 
 ---
 
+## 🚀 Como Reproduzir
+
+1. Clone este repositório
+2. Abra o arquivo `prompts.txt`
+3. Use cada prompt em uma ferramenta de IA como o ChatGPT
+4. Compare os resultados com os dados fornecidos
+
+---
+
 ## 📝 Conclusões
 
 Este projeto demonstrou como a combinação de dados + IA pode gerar valor estratégico com rapidez. A análise automatizada por meio de prompts é uma ferramenta poderosa para acelerar decisões e entender o comportamento do consumidor.
